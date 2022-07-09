@@ -1,2 +1,2 @@
-# OOP-Basic-exercises
-# Shopping list with discounts
+# OOP University tasks part 1
+* Shopping list with discounts
